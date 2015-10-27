@@ -2,3 +2,8 @@ mreg
 line2 in master	
 astr
 astr
+astr
+astr
+astr
+astr
+astr
