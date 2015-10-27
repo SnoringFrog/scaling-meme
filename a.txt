@@ -1,3 +1,4 @@
 mreg
 line2 in master	
 astr
+astr
